@@ -12,7 +12,6 @@
 - Gate-level netlist generated.
 
 ## Learning Outcomes
-- Learned Verilog/SystemVerilog coding.
 - Understood simulation flow.
 - Learned synthesis using Yosys.
 - Analyzed synthesized netlists.
