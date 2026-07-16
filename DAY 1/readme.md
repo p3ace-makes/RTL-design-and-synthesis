@@ -1,3 +1,4 @@
+## Overview
 Implemented and simulated a 2:1 Multiplexer in Verilog to verify its functional behavior. The design was then synthesized using Yosys with the Sky130 standard cell library, and the generated gate-level schematic was analyzed.
 
 ## Simulation
