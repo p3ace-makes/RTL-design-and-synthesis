@@ -2,7 +2,7 @@
 Day 2 focused on designing and synthesizing sequential circuits and optimized combinational logic in Verilog. Functional verification was performed through simulation, followed by synthesis using Yosys and technology mapping to the Sky130 standard cell library to analyze the generated hardware implementations.
 
 ## Special Case (Mult 8)
-VERILOG CODE:-
+**VERILOG CODE**
 ```verilog
 module mult8 (input [2:0] a , output [5:0] y);
     assign y = a * 9;
