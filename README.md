@@ -1,6 +1,5 @@
 ## Tools Used
 
-- Verilog HDL
 - Verilog
 - GTKWave
 - Yosys
