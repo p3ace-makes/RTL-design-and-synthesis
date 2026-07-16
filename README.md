@@ -1,7 +1,7 @@
 ## Tools Used
 
 - Verilog HDL
-- Icarus Verilog
+- Verilog
 - GTKWave
 - Yosys
 - Sky130 Standard Cell Library
